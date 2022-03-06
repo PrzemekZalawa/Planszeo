@@ -1,0 +1,82 @@
+.productimg{
+    width: 100px;
+    height: 150px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.product{
+    width: 150px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+
+}
+main{
+    background-color: #EAEAEA;
+    width: 80%;
+    margin: auto;
+    
+}
+p{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+}
+.linkimg{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    
+}
+.calendar{
+    background-color: green;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.app{
+    background-color: navy;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding-top: 80px;
+    
+
+}
+header{
+    top: 0px;
+position: fixed;
+    background-color: white;
+    height: 10%;
+    width: 100%;
+    
+}
+body{
+    background-color: #ccc;
+}
+nav{
+    right: 0;
+    position: fixed;
+    width: 10%;
+    background-color: white;
+
+}
+.minilinkimg{
+    max-width: 100px;
+    max-height: 100px;
+}
+footer{
+    padding: 25px;
+    background-color: purple;
+    color: white;
+    
+}
+.footer_section{
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+}
