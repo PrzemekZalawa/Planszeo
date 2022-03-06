@@ -1,0 +1,6 @@
+step 3:
+-Fraza wyszukiwania podana przez użytkownika
+-rok wybrany przez użytkownika poprzez przyciski
+step 4:
+-stan dot. frazy powinien byc w klasie SearchEngine
+-stan dot. roku wybranego powinien być w klasie Main
